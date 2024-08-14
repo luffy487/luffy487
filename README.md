@@ -1,4 +1,4 @@
-# Hi there, I'm Vibhaka! 👋
+# Hi there, I'm Vibhakar! 👋
 
 - 👀 I’m interested in Ethereum blockchain technology and decentralized applications (dApps).
 - 🌱 I’m currently working on several Ethereum projects as a hobby, including smart contracts and DeFi solutions.
